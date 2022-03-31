@@ -15,7 +15,7 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 
 [**Syllabus** ](https://storage.googleapis.com/pop_gen/syallabus.pdf) (subject to change)
 
-[Lecture Notes](https://github.com/amacp/PopGen/blob/main/LectureNotes.html)
+[Lecture Notes](https://amacp.github.io/PopGen/LectureNotes.html)
 
 Join Slack TBD
 
