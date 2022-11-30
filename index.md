@@ -22,11 +22,11 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 
 ## Course Content
 
-[Glossery of Terms](https://amacp.github.io/APMA990/Glossary.html)
+[Glossery of Terms](Glossary.md)
 
-[Primers](https://amacp.github.io/APMA990/Primers.html)
+[Primers](Primers.md)
 
-[Lecture Notes](https://amacp.github.io/APMA990/LectureNotes.html)
+[Lecture Notes](LectureNotes.md)
 
 Join Slack TBD
 
