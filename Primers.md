@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mathematical Primers
+---
+
 # Primers
 
 1. Equilibrium and stability analysis of recursion equations
