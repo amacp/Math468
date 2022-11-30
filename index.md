@@ -24,9 +24,9 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 
 [Glossery of Terms](https://amacp.github.io/APMA990/Glossary.html)
 
-[Primers](https://amacp.github.io/APMA990/Primers.md)
+[Primers](https://amacp.github.io/APMA990/Primers.html)
 
-[Lecture Notes](https://amacp.github.io/APMA990/LectureNotes.md)
+[Lecture Notes](https://amacp.github.io/APMA990/LectureNotes.html)
 
 Join Slack TBD
 
