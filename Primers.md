@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematical Primers
+title: Mathematical Primers 
 ---
 
 # Primers
