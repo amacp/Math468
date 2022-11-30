@@ -19,13 +19,14 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 | Dyn Sys. Analysis | Addaptive Dyn        	| Kawecki 1993       	|
 | Game Theory | XXXX | Sinervo 2000, Olofsson 2009    	|
 
+
 ## Course Content
 
-[Glossery of Terms](https://amacp.github.io/APMA990/Glossary.md)
+[Glossery of Terms](https://amacp.github.io/APMA990/Glossary.html)
 
-[Primers](https://amacp.github.io/APMA990/Primers.md)
+[Primers](https://amacp.github.io/APMA990/Primers.html)
 
-[Lecture Notes](https://amacp.github.io/APMA990/LectureNotes.md)
+[Lecture Notes](https://amacp.github.io/APMA990/LectureNotes.html)
 
 Join Slack TBD
 
