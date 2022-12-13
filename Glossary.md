@@ -1,10 +1,7 @@
 ---
 layout: page
-title: References
+title: Glossary of Terms
 ---
-
-# Glosary
-
 *Most of these definitions are adapted from the oxford dictionary modified for the context of this course.
 
 *biology is dizzyingly and fascinatingly diverse. This poses a unique challenge and need for naming in biology. We need to name things in order to study phenomena across across organisms but it also means that there is almost always an exception to every definition. Definitions are only as useful as we let them be. So rather than stressing about the exact meaning, embrace the diversity!
