@@ -5,8 +5,10 @@ title: Mathematics of Evolution
 > **Spring 2023--Simon Fraser University**
 
 ## Course Overview
-Much of our understanding of evolution, the process shaping the beautiful biological diversity in our world, is grounded in equally elegant mathematics.  In this course we will cover the mathematical description of evolution. Involving a wide range of topics, from the analysis of non-linear dynamics to stochastic processes and partial differential equations, this course will challenge you to take mathematical principals and apply them to the natural world.  Throughout this course we will focus particularly on addressing important contemporary existential questions with mathematical models, for example applications of evolution to conservation and public health.
+Much of our understanding of evolution, the process shaping the beautiful biological diversity in our world, is grounded in equally elegant mathematics.  In this course we will cover the mathematical description of evolution. Involving a wide range of topics, from the analysis of non-linear dynamics to stochastic processes and partial differential equations, this course will challenge you to take mathematical principals and apply them to the natural world. 
 
+What this course is not.  This course is not a thurough introduction to popualtion genetics.  Don't get me wrong, population genetics is awesome!, but it is only one way of modelling evolution.  Instead this course will focus on "going wide" instead of "going deep" exploring how a wide variety of matheamtical approaches can be sued to study type of evolutionary question: the evolution of life history traits.  This course is also not an introudction to modelling of biological populations.  This too is an importnat topic and a fascinating one, allowing us to model ecology, evolution, and epidemiology (again all topics close to my heart).  While we will discuss eco-evolutionaory dynamics in this course we do so through the lense of the evolutionary consequences not necessarily the ecological ones.
+ 
 ## Schedule
 | Topic       	| Example      | Refereces		|
 | ----------- 	| ----------- 	| -----------	|
@@ -31,3 +33,7 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 Join Slack TBD
 
 Office Hours: TBD
+
+## Homework 
+[Homework 1](APMA_HW1.pdf) **Due:** TBD
+[Homework 2](APMA_HW2.pdf) **Due:** TBD
