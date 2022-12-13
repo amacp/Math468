@@ -9,5 +9,5 @@ social_links:
   #github:  jekyll
 
 #Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
