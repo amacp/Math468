@@ -11,15 +11,14 @@ What this course is not.  This course is not a thurough introduction to popualti
  
 ## List of Topics
 
-| Topic       	| Mathematical Methods      | Refereces		|
-| ----------- 	| ----------- 	| -----------	|
-| Four Evol. Processes|         	| Crow and Kimura 1970|
-| Desnity-Dependent Sln. | Recursion Eqs	 	     	|Roughgarden 1971       	|
-| Demography | Linear Alg. 				| Charlsworth Ch 1, Scott & Otto 2014|
-| Addaptive Dyn | Dyn Sys. Analysis         	| Mylius & Diekmann 1995, Cantrel et al. 2010|
-| Stoch. Procs. 		| Stochsatic Environments | Lande 2017       	|
-| Coal. Theory		| Seed Dormancy | Kaj and Krone, Nordborg and Krone, Pollak 2011     	|
-| Game Theory | XXXX | Sinervo 2000, Olofsson 2009    	|
+|Weeks| Topic       	| Mathematical Methods      | Refereces		| Guest Lectures |
+|---| ----------- 	| ----------- 	| -----------	|
+|Jan 4 & Jan 11| Four Evol. Processes|         	| Crow and Kimura 1970| |
+|Jan 18| Desnity-Dependent Sln. | Recursion Eqs	 	     	|Roughgarden 1971       	| |
+|Jan 25 & Feb 1 & Feb 8 & Feb 15 | Demography | Linear Alg. 				| Charlsworth 1994, Scott & Otto 2014, Cotto et al. 2019  | |
+|Mar 1, Mar 8| Addaptive Dyn | Dyn Sys. Analysis         	| Mylius & Diekmann 1995, Olofsson 2009, Cantrel et al. 2010| |
+|Mar 15 & Mar 22| Environmental Stochasticity | Stoch. Procs. 		|Lande et al. 2009,  Tuljapurkar et al.  2009, Lande and Engen 2017| |
+|Mar 29 & April 5| Seed Dormancy| Coal. Theory		| Kaj and Krone, Nordborg and Krone  | |
 
 
 ## Course Content
