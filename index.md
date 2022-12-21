@@ -12,9 +12,16 @@ What this course is not.  This course is not a thurough introduction to popualti
 **Grade Overview**
 
 - Homework: 6 x 10% each
-- Presentation 15% 
-- Report 25%
- 
+- Presentation 15%
+  - 5% Presentation content
+  - 5% Presentation delivery
+  - 5% Q and A (Asking questions to others and answering questions asked)
+- Report 25% 
+  - 5% Background & Justification
+  - 10% Methods & results & figures/tables
+  - 5% Discussion
+  - 5% Writing proficancy
+
 **Class Times**
 - Lecture: Wednesday and Friday 10:30-12:20 (On zoom)
 - Office Hours: Friday 4-5pm (On zoom)
@@ -23,10 +30,14 @@ What this course is not.  This course is not a thurough introduction to popualti
 - Feb 20-26: Reading week
 - April 7 & April 10: Easter
 
+**Final Project**
+
+Choose a peer-reviewed publication examing the evolution of life history and reproduce the results. Part 1: Give a 20 min presentation summerizing the question, methods, and key results.  Part 2: 4pg report (not including additional supplemental materials) discussing the background, methods, results, and a possible extension to the model.
+
 ## List of Topics
 
 |Weeks| Topic       	| Mathematical Methods      | Refereces		|
-|---| ----------- 	| ----------- 	| -----------	|------|
+|---| ----------- 	| ----------- 	| -----------	|
 |Jan 4 & Jan 11| Four Evol. Processes|         	| Crow and Kimura 1970|
 |Jan 18| Desnity-Dependent Sln. | Recursion Eqs	 	     	|Roughgarden 1971       	|
 |Jan 25 & Feb 1 & Feb 8 | Demography | Linear Alg. 				| Charlsworth 1994, Scott & Otto 2014, Cotto et al. 2019  |
