@@ -15,6 +15,14 @@ What this course is not.  This course is not a thurough introduction to popualti
 - Presentation 15% 
 - Report 25%
  
+**Class Times**
+- Lecture: Wednesday and Friday 10:30-12:20 (On zoom)
+- Office Hours: Friday 4-5pm (On zoom)
+
+*Holidays*
+- Feb 20-26: Reading week
+- April 7 & April 10: Easter
+
 ## List of Topics
 
 |Weeks| Topic       	| Mathematical Methods      | Refereces		|
@@ -39,8 +47,6 @@ What this course is not.  This course is not a thurough introduction to popualti
 [Lecture Notes](LectureNotes.md)
 
 [Join Slack](https://join.slack.com/t/slack-vuf7711/shared_invite/zt-1m28aiup1-mxpYT7olACPKIUB~dggRmw)
-
-Office Hours: Friday 4-5pm 
 
 ## Homework 
 
