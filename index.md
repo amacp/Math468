@@ -42,6 +42,8 @@ Office Hours: TBD
 
 ## Projects
 
+Climate change is projected to result in two types of enviornmental change-- increased environmental severity and increased enviornmental variability.  These projects focus on the evolution of life history tratis under these two different types of enviornmental change. 
+
 [Project 1: r vs. K selection]()
 
 [Project 2: Density-dependent Disperal]()
