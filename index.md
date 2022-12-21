@@ -10,10 +10,10 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 What this course is not.  This course is not a thurough introduction to popualtion genetics.  Don't get me wrong, population genetics is awesome!, but it is only one way of modelling evolution.  Instead this course will focus on "going wide" instead of "going deep" exploring how a wide variety of matheamtical approaches can be sued to study type of evolutionary question: the evolution of life history traits.  This course is also not an introudction to modelling of biological populations.  This too is an importnat topic and a fascinating one, allowing us to model ecology, evolution, and epidemiology (again all topics close to my heart).  While we will discuss eco-evolutionaory dynamics in this course we do so through the lense of the evolutionary consequences not necessarily the ecological ones.
 
 **Grade Overview**
-Homework: 6 x 10% each
-Final Project:
- - Presentation 15% 
- - Report 25%
+
+- Homework: 6 x 10% each
+- Presentation 15% 
+- Report 25%
  
 ## List of Topics
 
@@ -30,18 +30,20 @@ Final Project:
 
 ## Course Content
 
+[Zoom](https://sfu.zoom.us/j/81781685384?pwd=b2EzYUpRUGYyaVozdkhLRmFlT2F5QT09)
+
 [Glossery of Terms](Glossary.md)
 
 [Primers](Primers.md)
 
 [Lecture Notes](LectureNotes.md)
 
-Join Slack TBD
+[Join Slack](https://join.slack.com/t/slack-vuf7711/shared_invite/zt-1m28aiup1-mxpYT7olACPKIUB~dggRmw)
 
-Office Hours: TBD
+Office Hours: Friday 4-5pm 
 
 ## Homework 
 
-[Homework 1](APMA990_HW1.pdf) **Due:** TBD
+[Homework 1](APMA990_HW1.pdf) **Due:** Jan 20
 
-[Homework 2](APMA990_HW2.pdf) **Due:** TBD
+[Homework 2](APMA990_HW2.pdf) **Due:** Jan 27
