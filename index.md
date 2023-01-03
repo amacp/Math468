@@ -9,7 +9,25 @@ Much of our understanding of evolution, the process shaping the beautiful biolog
 
 What this course is not.  This course is not a thurough introduction to popualtion genetics.  Don't get me wrong, population genetics is awesome!, but it is only one way of modelling evolution.  Instead this course will focus on "going wide" instead of "going deep" exploring how a wide variety of matheamtical approaches can be sued to study type of evolutionary question: the evolution of life history traits.  This course is also not an introudction to modelling of biological populations.  This too is an importnat topic and a fascinating one, allowing us to model ecology, evolution, and epidemiology (again all topics close to my heart).  While we will discuss eco-evolutionaory dynamics in this course we do so through the lense of the evolutionary consequences not necessarily the ecological ones.
 
-**Grade Overview**
+## Course Content
+
+[Zoom](https://sfu.zoom.us/j/81781685384?pwd=b2EzYUpRUGYyaVozdkhLRmFlT2F5QT09)
+
+[Glossery of Terms](Glossary.md)
+
+[Lecture Notes](LectureNotes.md)
+
+[Join Slack](https://join.slack.com/t/slack-vuf7711/shared_invite/zt-1m28aiup1-mxpYT7olACPKIUB~dggRmw)
+
+**Class Times**
+- Lecture: Wednesday and Friday 10:30-12:20 (On zoom)
+- Office Hours: Friday 4-5pm (On zoom)
+
+*Holidays*
+- Feb 20-26: Reading week
+- April 7 & April 10: Easter
+
+## Grade Overview
 
 - Homework: 6 x 10% each
 - Presentation 15%
@@ -21,14 +39,6 @@ What this course is not.  This course is not a thurough introduction to popualti
   - 10% Methods & results & figures/tables
   - 5% Discussion
   - 5% Writing proficancy
-
-**Class Times**
-- Lecture: Wednesday and Friday 10:30-12:20 (On zoom)
-- Office Hours: Friday 4-5pm (On zoom)
-
-*Holidays*
-- Feb 20-26: Reading week
-- April 7 & April 10: Easter
 
 **Final Project**
 
@@ -45,19 +55,6 @@ Choose a peer-reviewed publication examing the evolution of life history and rep
 |Mar 8 & Mar 15 | Environmental Stochasticity | Stoch. Procs. 		|Lande et al. 2009,  Tuljapurkar et al.  2009, Lande and Engen 2017|
 |Mar 22 & Mar 29 | Seed Dormancy| Coal. Theory		| Kaj and Krone, Nordborg and Krone  |
 |Mar 31 & April 5| Presentations|||
-
-
-## Course Content
-
-[Zoom](https://sfu.zoom.us/j/81781685384?pwd=b2EzYUpRUGYyaVozdkhLRmFlT2F5QT09)
-
-[Glossery of Terms](Glossary.md)
-
-[Primers](Primers.md)
-
-[Lecture Notes](LectureNotes.md)
-
-[Join Slack](https://join.slack.com/t/slack-vuf7711/shared_invite/zt-1m28aiup1-mxpYT7olACPKIUB~dggRmw)
 
 ## Homework 
 
