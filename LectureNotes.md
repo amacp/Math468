@@ -6,6 +6,8 @@ title: Lecture Notes
 # Lecture Notes 
 
 1. [The four evolutionary processes](https://drive.google.com/file/d/1BE-OeE3-nrqlvwM0fEt-J7THTu9TlG2P/view?usp=share_link) 
+    - [Video 1: Wednesday Jan 4](https://drive.google.com/file/d/1w08wgyVKDdNZ3N5O6JBiFq9OKRjKni6f/view?usp=share_link)
+    
 2. [Density-dependent selection]()
 
 
