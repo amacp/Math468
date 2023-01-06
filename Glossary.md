@@ -45,3 +45,7 @@ title: Glossary of Terms
 **life history**: refers the set of characteristics/traits or an organism that determine the demography of the population.
 
 ## Named Models
+
+**Wright-Fisher Model** A model of neutral genetic drift in discrete-time.  Each generation ofspring pick their parents resulting in stochastic variation in the number of $A$ alleles in the population.  The transition probability for having $i$ alleles in generation 1 to $j$ alleles in generation 2 is binomial.
+
+**Hardy-Weinberg Frequencies** Genotype frequencies after random mating
