@@ -44,8 +44,20 @@ title: Glossary of Terms
 
 **life history**: refers the set of characteristics/traits or an organism that determine the demography of the population.
 
+**allelic dominance**:  The relative phenotype of a heterozygote.  Fitness is often expressed with a quantity $h$, where dominance for fitness is given by: $$w_{aa}=1\quad w_{Aa}=1+hs \quad w_{AA}=1+s$$.  If $h=0$ then the $A$ mutant allele is **recessive** if $0\geq h\geq 1$ the mutation is **co-dominant**.  If $h=1/2$ the mutation is **additive**, if $h>1$ the mutation is **overdominant** and $h<0$ the mutation is **underdominannt**.
+
 ## Named Models
 
 **Wright-Fisher Model** A model of neutral genetic drift in discrete-time.  Each generation ofspring pick their parents resulting in stochastic variation in the number of $A$ alleles in the population.  The transition probability for having $i$ alleles in generation 1 to $j$ alleles in generation 2 is binomial.
 
 **Hardy-Weinberg Frequencies** Genotype frequencies after random mating
+
+**Two-Patch Model** A model of migration between two patches/demes.  Migration can assumed to be symmetric or assymetric. 
+
+**Metapopulation Model (aka Island Model)** A model of a finite or infinite number of interconnected demes. Migration is often assumed to be random among the demes (puff ball migration) or follows a specific migration matrix.
+
+**Lattice Model** A specific case of a metapopulation model where demes are arrayed along a regular grid.
+
+**Island-Continent(Mainland) Model** A model of migration between an island of small size and an infinitely large/dense mainland.  Mainland immigrants impact island allele frequencies/demography but island migrants are assumed to have no effect on the mainland.  Note that this model is often equivalent to a metapopulation model with an infinite number of demes.
+
+
