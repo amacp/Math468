@@ -15,8 +15,11 @@ title: Lecture Notes
     
 2. [Density-dependent selection](https://drive.google.com/file/d/1JnaakMsMoC77xrJ3Rzfml4IyhpMWoQU8/view?usp=share_link)
     - [Video 5: Wednesday Jan 18](https://drive.google.com/file/d/1GOdFO7swCFgX0Pyk08QHnWmLS7egON4m/view?usp=sharing)
-    
-4. [Mathematical Demography](https://drive.google.com/file/d/13c5qQ_gyjLhOlfWix-vLp7NoEIF-2KzA/view?usp=sharing)
+    - [Video 6 Part 1: Friday Jan 20](https://drive.google.com/file/d/1_4fNIH7krAgyUwwGWCZ8KCMiSl0tcs2j/view?usp=sharing)
+    - [Video 6 Part 2: Friday Jan 20](https://drive.google.com/file/d/1vnnFqiqtTldCxNtQmASmBfXunmlWqswj/view?usp=sharing)
+
+
+3. [Mathematical Demography](https://drive.google.com/file/d/13c5qQ_gyjLhOlfWix-vLp7NoEIF-2KzA/view?usp=sharing)
 
 
 # Primers
