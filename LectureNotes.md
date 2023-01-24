@@ -20,6 +20,7 @@ title: Lecture Notes
 
 
 3. [Mathematical Demography](https://drive.google.com/file/d/13c5qQ_gyjLhOlfWix-vLp7NoEIF-2KzA/view?usp=sharing)
+    - [Matheamtica File](https://drive.google.com/file/d/1Okk39Y_bEfJddist4y1UoF54pxOfnsWk/view?usp=sharing)
 
 
 # Primers
