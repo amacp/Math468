@@ -21,7 +21,7 @@ title: Lecture Notes
 
 3. [Mathematical Demography](https://drive.google.com/file/d/13c5qQ_gyjLhOlfWix-vLp7NoEIF-2KzA/view?usp=sharing)
     - [Matheamtica File](https://drive.google.com/file/d/1Okk39Y_bEfJddist4y1UoF54pxOfnsWk/view?usp=sharing)
-
+    - [Video 7: Wednesday Jan 25](https://drive.google.com/file/d/1Q9NKXRH1iIJ7VP6NAkgx5IQILVPSHm9s/view?usp=share_link)
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
