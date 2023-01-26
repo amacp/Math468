@@ -22,9 +22,13 @@ title: Lecture Notes
 3. [Mathematical Demography](https://drive.google.com/file/d/13c5qQ_gyjLhOlfWix-vLp7NoEIF-2KzA/view?usp=sharing)
     - [Matheamtica File](https://drive.google.com/file/d/1Okk39Y_bEfJddist4y1UoF54pxOfnsWk/view?usp=sharing)
     - [Video 7: Wednesday Jan 25](https://drive.google.com/file/d/1Q9NKXRH1iIJ7VP6NAkgx5IQILVPSHm9s/view?usp=share_link)
+
     3.1 [Evol. of Iteroparity](https://drive.google.com/file/d/1EUNgmzGreQB1xaGEYlX9N27_WIy8u24n/view?usp=share_link)
+
     3.2 [Evol. of Scenesence]()
+
     3.3 [Evol. of seed dormancy]()
+
     3.4 [Evol of Age of Reproductive Maturity]()
 
 # Primers
