@@ -65,3 +65,5 @@ Choose a peer-reviewed publication examing the evolution of life history and rep
 
 [Homework 3](APMA990_HW3.pdf) **Due:** Feb 12
 
+[Homework 4](APMA990_HW3.pdf) **Due:** Feb 26
+
