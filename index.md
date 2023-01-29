@@ -61,8 +61,7 @@ Choose a peer-reviewed publication examing the evolution of life history and rep
 |Mar 3,8|Eco-evolutionary coalescent models|Griffiths and Tavare 1994, Austerlitz 1997,Kaj and Krone 2003|
 |Mar 15,17|Introduction to Phylogenetics|Zhang 2006 Ch 1,4|
 |Mar 22,24|Diversiction Models: BiSSE|Maddison et al. 2007, Stadler 2010, MacPherson et al. 2021|
-|Mar 29,31|Flux time for guest lectures/presentations||
-|April 5,7|Presentations||
+|Mar 29,31, April 5|Presentations||
 
 ## Homework 
 
