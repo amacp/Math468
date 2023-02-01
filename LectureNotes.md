@@ -26,7 +26,9 @@ title: Lecture Notes
     - [Video 8: Friday Jan 27](https://drive.google.com/file/d/1mxZgI1DaNP5QHt2I-hVqXuvFJAmGuLw8/view?usp=share_link)
     
     3.1 [Evol. of Iteroparity](https://drive.google.com/file/d/1EUNgmzGreQB1xaGEYlX9N27_WIy8u24n/view?usp=share_link)
-        -[Video 9: Wednesday Feb 1](https://drive.google.com/file/d/1E0CCVAqiC3dFA56_mtN5duO_5JJQEwUC/view?usp=share_link)
+       
+    - [Video 9: Friday Feb 1](https://drive.google.com/file/d/1E0CCVAqiC3dFA56_mtN5duO_5JJQEwUC/view?usp=share_link)
+   
     3.2 Evol. of Scenesence
 
     3.3 Evol. of seed dormancy
