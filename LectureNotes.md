@@ -27,14 +27,16 @@ title: Lecture Notes
     
     3.1 [Evol. of Iteroparity](https://drive.google.com/file/d/1EUNgmzGreQB1xaGEYlX9N27_WIy8u24n/view?usp=share_link)
 
-    3.2 [Evol. of Scenesence]()
+    3.2 Evol. of Scenesence
 
-    3.3 [Evol. of seed dormancy]()
+    3.3 Evol. of seed dormancy
 
-    3.4 [Evol of Age of Reproductive Maturity]()
+    3.4 Evol of Age of Reproductive Maturity
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
 2. [Stability Analysis](https://drive.google.com/file/d/1BHK7tr5GJ-Vu33Q3m6WXv-7x9FKGIvn6/view?usp=share_link)
 3. Probability
 4. [Linear Algerbra](https://drive.google.com/file/d/1X3EAUTCH8YarUe5D7SFTQUS33HYETbaU/view?usp=share_link)
+5. [Adaptive Dynamics Notes](https://drive.google.com/file/d/1_HnPbIyXIZ-4Kn1h7QK_vy_SqCDd5hju/view?usp=share_link)
+    and [Adaptive Dynamics Matheamtica](https://drive.google.com/file/d/1shpk8Rd6QbE8hG6mw-qTI1PE1AV0zdfm/view?usp=share_link)
