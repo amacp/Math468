@@ -52,10 +52,11 @@ Choose a peer-reviewed publication examing the evolution of life history and rep
 |Jan 18,20| Desnity-Dependent Sln. |Roughgarden 1971       	|
 |Jan 25,27| Mathematical Demography|Charlsworth 1980 Ch 1. |
 |Feb 1| Semelparity vs. Iteroparity |Young 1981|
-|Feb 3,8| Evolution of Senesence |Charlsworth 1993, Day and Abrams 2020|
+|Feb 3| Intro to Adaptive Dynamic |Brännström et al. 2013|
+|Feb 8| Evolution of Senesence and age of reproductive maturity |Charlsworth 1993, Day and Abrams 2020|
 |Feb 10| Evolution of Seed Dormancy| Scott and Otto 2014|
 |Feb 15| Life history evolution in a changing world |Cotto et al. 2019|
-|Feb 17|Adaptive Dynamics-viral life-hsitory traits||
+|Feb 17|Evolution of Epidmeiolgoical Traits||
 |Feb 22,24|Reading week||
 |Mar 1,3|Introduction to Coalescent Theory| Wakeley 2009|
 |Mar 3,8|Eco-evolutionary coalescent models|Griffiths and Tavare 1994, Austerlitz 1997,Kaj and Krone 2003|
