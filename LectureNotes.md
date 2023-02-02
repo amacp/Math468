@@ -36,9 +36,6 @@ title: Lecture Notes
     4.1 [Evol. of Scenesence](https://drive.google.com/file/d/1FJbCi6ZChRCLFAM4m5Hy3V4aWKNg7h57/view?usp=share_link)
 
     4.2 [Evol of Age of Reproductive Maturity](https://drive.google.com/file/d/1S57D7QWmrQ43o60ni2kpuns8sN15jofa/view?usp=share_link)
-     
-    3.3 Evol. of seed dormancy
-
    
 
 # Primers
