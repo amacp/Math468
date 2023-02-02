@@ -29,7 +29,7 @@ title: Lecture Notes
        
     - [Video 9: Friday Feb 1](https://drive.google.com/file/d/1E0CCVAqiC3dFA56_mtN5duO_5JJQEwUC/view?usp=share_link)
    
-    3.2 Evol. of Scenesence
+    3.2 [Evol. of Scenesence](https://drive.google.com/file/d/1FJbCi6ZChRCLFAM4m5Hy3V4aWKNg7h57/view?usp=share_link)
 
     3.3 Evol. of seed dormancy
 
