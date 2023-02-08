@@ -27,11 +27,12 @@ title: Lecture Notes
     
     3.1 [Evol. of Iteroparity](https://drive.google.com/file/d/1EUNgmzGreQB1xaGEYlX9N27_WIy8u24n/view?usp=share_link)
        
-    - [Video 9: Friday Feb 1](https://drive.google.com/file/d/1E0CCVAqiC3dFA56_mtN5duO_5JJQEwUC/view?usp=share_link)
+    - [Video 9: Wednesday Feb 1](https://drive.google.com/file/d/1E0CCVAqiC3dFA56_mtN5duO_5JJQEwUC/view?usp=share_link)
 
 
 4. [Adaptive Dynamics](https://drive.google.com/file/d/1_HnPbIyXIZ-4Kn1h7QK_vy_SqCDd5hju/view?usp=share_link)
     - [Mathematica](https://drive.google.com/file/d/1shpk8Rd6QbE8hG6mw-qTI1PE1AV0zdfm/view?usp=share_link)
+    - [Video 10: Friday Feb 3](https://drive.google.com/file/d/1gcwKXjIEKGIekPcwdK10CNAmaEQhUEWq/view?usp=share_link)
     
     4.1 [Evol. of Scenesence](https://drive.google.com/file/d/1FJbCi6ZChRCLFAM4m5Hy3V4aWKNg7h57/view?usp=share_link)
 
