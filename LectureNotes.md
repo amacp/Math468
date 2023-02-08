@@ -33,7 +33,9 @@ title: Lecture Notes
 4. [Adaptive Dynamics](https://drive.google.com/file/d/1_HnPbIyXIZ-4Kn1h7QK_vy_SqCDd5hju/view?usp=share_link)
     - [Mathematica](https://drive.google.com/file/d/1shpk8Rd6QbE8hG6mw-qTI1PE1AV0zdfm/view?usp=share_link)
     - [Video 10: Friday Feb 3](https://drive.google.com/file/d/1gcwKXjIEKGIekPcwdK10CNAmaEQhUEWq/view?usp=share_link)
-    
+    - [Video 11: Wednesday Feb 8](https://drive.google.com/file/d/1tIr4SFDp1gIeoiBB5OEzF4rzrQYqcmau/view?usp=share_link)
+
+
     4.1 [Evol. of Scenesence](https://drive.google.com/file/d/1FJbCi6ZChRCLFAM4m5Hy3V4aWKNg7h57/view?usp=share_link)
 
     4.2 [Evol of Age of Reproductive Maturity](https://drive.google.com/file/d/1S57D7QWmrQ43o60ni2kpuns8sN15jofa/view?usp=share_link)
