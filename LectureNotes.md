@@ -39,9 +39,11 @@ title: Lecture Notes
     4.1 [Evol. of Scenesence](https://drive.google.com/file/d/1FJbCi6ZChRCLFAM4m5Hy3V4aWKNg7h57/view?usp=share_link)
 
     4.2 [Evol of Age of Reproductive Maturity](https://drive.google.com/file/d/1S57D7QWmrQ43o60ni2kpuns8sN15jofa/view?usp=share_link)
+     - [Video 12](https://drive.google.com/file/d/1KYssXvlQRrKdcdA9Gw8sYZYdnpKLxxue/view?usp=share_link)
      
     4.3 [Evol. of Seed Dormancy](https://drive.google.com/file/d/1DVf9tQe4HhrY_EbuC3cuV_QJRIS8MIGl/view?usp=share_link)
     - [Mathematica](https://drive.google.com/file/d/1xLTBAVTDwtfl8dxLYxFronJyfqhdhAJA/view?usp=share_link)
+    
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
