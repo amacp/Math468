@@ -58,7 +58,7 @@ Choose a peer-reviewed publication examing the evolution of life history and rep
 |Feb 17|Evolution of Epidmeiolgoical Traits||
 |Feb 22,24|Reading week||
 |Mar 1,3|Introduction to Coalescent Theory| Wakeley 2009|
-|Mar 3,8|Eco-evolutionary coalescent models|Griffiths and Tavare 1994, Austerlitz 1997,Kaj and Krone 2003|
+|Mar 8,10|Eco-evolutionary coalescent models|Griffiths and Tavare 1994, Austerlitz 1997,Kaj and Krone 2003|
 |Mar 15,17|Introduction to Phylogenetics|Zhang 2006 Ch 1,4|
 |Mar 22,24|Diversiction Models: BiSSE|Maddison et al. 2007, Stadler 2010, MacPherson et al. 2021|
 |Mar 29,31, April 5|Presentations||
