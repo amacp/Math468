@@ -45,7 +45,13 @@ title: Lecture Notes
     4.3 [Evol. of Seed Dormancy](https://drive.google.com/file/d/1DVf9tQe4HhrY_EbuC3cuV_QJRIS8MIGl/view?usp=share_link)
     - [Mathematica](https://drive.google.com/file/d/1xLTBAVTDwtfl8dxLYxFronJyfqhdhAJA/view?usp=share_link)
     - [Video 14](https://drive.google.com/file/d/18UZfNAyUkjybFx9QuatnuzFSJIOHqjC3/view?usp=share_link)
+5. Coalescent Theory
     
+    5.1 [Graphs in Evolution](https://drive.google.com/file/d/18KCysLTqUqcbfa2aETFdV96oCXn9CpcF/view?usp=share_link)
+    
+    5.2 [The WF Coalescent]()
+    
+    5.3 [Adding Mutation]()
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
