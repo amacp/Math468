@@ -44,6 +44,8 @@ What this course is not.  This course is not a thurough introduction to popualti
 
 Choose a peer-reviewed publication examing the evolution of life history and reproduce the results. Part 1: Give a 20 min presentation summerizing the question, methods, and key results.  Part 2: 4pg report (not including additional supplemental materials) discussing the background, methods, results, and a possible extension to the model.
 
+- [Presentation Sign Up](https://docs.google.com/spreadsheets/d/11YHpdu2ibBtqsRmSAPjM6vY0d3mlz9uo-QD0LrYlDiE/edit?usp=sharing)
+
 ## List of Topics
 
 |Day(s)| Topic       	| Refereces		|
