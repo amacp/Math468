@@ -53,6 +53,8 @@ title: Lecture Notes
     
     5.3 [Adding Mutation]()
 
+    - [UW Coalescent Seminar](http://courses.washington.edu/b581/Previous/Winter2023.shtml) Contact Seth Temple to join discussion board.
+
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
 2. [Stability Analysis](https://drive.google.com/file/d/1BHK7tr5GJ-Vu33Q3m6WXv-7x9FKGIvn6/view?usp=share_link)
