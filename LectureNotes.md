@@ -46,14 +46,14 @@ title: Lecture Notes
     - [Mathematica](https://drive.google.com/file/d/1xLTBAVTDwtfl8dxLYxFronJyfqhdhAJA/view?usp=share_link)
     - [Video 14](https://drive.google.com/file/d/18UZfNAyUkjybFx9QuatnuzFSJIOHqjC3/view?usp=share_link)
 5. Coalescent Theory
+
+    - [UW Coalescent Seminar](http://courses.washington.edu/b581/Previous/Winter2023.shtml) Contact Seth Temple to join discussion board.
     
     5.1 [Graphs in Evolution](https://drive.google.com/file/d/18KCysLTqUqcbfa2aETFdV96oCXn9CpcF/view?usp=share_link)
     
     5.2 [The WF Coalescent]()
     
     5.3 [Adding Mutation]()
-
-    - [UW Coalescent Seminar](http://courses.washington.edu/b581/Previous/Winter2023.shtml) Contact Seth Temple to join discussion board.
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
