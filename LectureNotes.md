@@ -51,9 +51,7 @@ title: Lecture Notes
     
     5.1 [Graphs in Evolution](https://drive.google.com/file/d/18KCysLTqUqcbfa2aETFdV96oCXn9CpcF/view?usp=share_link)
     
-    5.2 [The WF Coalescent]()
-    
-    5.3 [Adding Mutation]()
+    5.2 [The WF Coalescent](https://drive.google.com/file/d/1-OB0Rcl-tsuOpeCWM7rGwhkC8y-YwogZ/view?usp=share_link)
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
