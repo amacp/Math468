@@ -54,8 +54,6 @@ title: Lecture Notes
     5.2 [The WF Coalescent](https://drive.google.com/file/d/1-OB0Rcl-tsuOpeCWM7rGwhkC8y-YwogZ/view?usp=share_link)
     
     5.3 [The Eco-Evolutionary Geneology]()
-    
-    5.4 [Coalescent with Seed Dormancy]()
 
 6. Phylogenetics
 
