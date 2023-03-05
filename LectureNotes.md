@@ -53,10 +53,15 @@ title: Lecture Notes
     - [Video 15](https://drive.google.com/file/d/15fzG4eUq3mtTOhPFVqY4zku0VlcOvGqb/view?usp=share_link)
     
     5.2 [The WF Coalescent](https://drive.google.com/file/d/1-OB0Rcl-tsuOpeCWM7rGwhkC8y-YwogZ/view?usp=share_link)
+    - [Matheamtica](https://drive.google.com/file/d/1i4lvutxbnvcfuT0jGa4q3Ey8MAdBXs36/view?usp=share_link)
     - [Video 16](https://drive.google.com/file/d/1nsxVSh2zAY88W9WN-RMZ-koF4h14hGaI/view?usp=share_link)
     
-    5.3 [The Eco-Evolutionary Geneology]()
-
+    5.3 [The Eco-Evolutionary Geneology](https://drive.google.com/file/d/1piJb9hnUimMT5_HPGDIn-m8u5mwE6Oe8/view?usp=share_link)
+    - [Matheamtica](https://drive.google.com/file/d/1Gf7y-Y68UHkdmandbv6aeHOTjeAXlXt8/view?usp=share_link)
+    
+    5.4 [Seed Bank Geneology](https://drive.google.com/file/d/11_ri5FIc4CqTMEUFT9JTd_FEp5aX-WZI/view?usp=share_link)
+    - [Mathematica](https://drive.google.com/file/d/1rndFRk7bOY0iTQeYk47WEq9l9f68A7Y8/view?usp=share_link)
+    
 6. Phylogenetics
 
 # Primers
