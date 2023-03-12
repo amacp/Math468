@@ -74,8 +74,10 @@ Choose a peer-reviewed publication examing the evolution of life history and rep
 - [Solutions](https://drive.google.com/file/d/10U07VvGm1A4ktUazXlY05meG0y62WDQB/view?usp=share_link)
 
 [Homework 3](APMA990_HW3.pdf) **Due:** Feb 12
+- [Solutions](https://drive.google.com/file/d/1o1awCjLCfU6KNxEdsltAGpVRtkQJFXoC/view?usp=share_link)
 
 [Homework 4](APMA990_HW4.pdf) **Due:** Feb 26-- Skip problem 3!
+- [Solutions](https://drive.google.com/file/d/1SicHjJaLPgoAe0Mcz3l6NoIBEwVGjHmh/view?usp=share_link)
 
 [Homework 5](APMA990_HW5.pdf) **Due:** Mar 19
 
