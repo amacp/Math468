@@ -63,6 +63,7 @@ title: Lecture Notes
  
     5.4 [Seed Bank Geneology](https://drive.google.com/file/d/11_ri5FIc4CqTMEUFT9JTd_FEp5aX-WZI/view?usp=share_link)
     - [Mathematica](https://drive.google.com/file/d/1rndFRk7bOY0iTQeYk47WEq9l9f68A7Y8/view?usp=share_link)
+    - [Video 18](https://drive.google.com/file/d/1J3tvOLd8Lql_5hlYNTdsU6CSemZXI_1X/view?usp=share_link)
     
 6. [Phylogenetics](https://drive.google.com/file/d/1616sc-TVIulKBbP7htoQUSaXdCC8nJaq/view?usp=share_link)
 
