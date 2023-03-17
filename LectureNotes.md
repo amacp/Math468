@@ -68,6 +68,7 @@ title: Lecture Notes
     
 6. [Phylogenetics](https://drive.google.com/file/d/1616sc-TVIulKBbP7htoQUSaXdCC8nJaq/view?usp=share_link)
     - [Video 19](https://drive.google.com/file/d/1M4K34R-5rUIBppOYF1i6YlFeoMNKR1K3/view?usp=share_link)
+    - [Vodeo 20](https://drive.google.com/file/d/1etXEc8tQsbE6gpdNAZG8m4BHmz2RRDI8/view?usp=share_link)
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
