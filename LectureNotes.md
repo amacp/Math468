@@ -3,6 +3,7 @@ layout: page
 title: Lecture Notes
 ---
 
+[Full Notes](https://drive.google.com/file/d/1rPrCCHi-ZjV3Esne-JOgBIZCmL8JzqNj/view?usp=share_link)
 [Image Folder](https://drive.google.com/drive/folders/1pCAanDFn1sqlNANQuAQXSTCjCvCs01JI?usp=share_link)
 
 # Lecture Notes 
