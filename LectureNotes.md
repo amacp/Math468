@@ -70,6 +70,7 @@ title: Lecture Notes
     - [Video 19](https://drive.google.com/file/d/1M4K34R-5rUIBppOYF1i6YlFeoMNKR1K3/view?usp=share_link)
     - [Video 20](https://drive.google.com/file/d/1etXEc8tQsbE6gpdNAZG8m4BHmz2RRDI8/view?usp=share_link)
     - [Video 21](https://drive.google.com/file/d/1xqcVS7ZjBIiIB94Rt_W_ydZdwgDJXEF9/view?usp=share_link)
+    - [Video 22](https://drive.google.com/file/d/1yWRpsFV7WHr83MB9Alt7qVyLW8uRxXdT/view?usp=share_link)
 
 # Primers
 1. [Stochastic Processes](https://drive.google.com/file/d/1c3N5lu8MKJmqObSvPnvMiBA4vN4xTKCI/view?usp=sharing)
