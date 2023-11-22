@@ -11,6 +11,8 @@ The natural world is inherently random. Describing, understanding, and predictin
 
 [Syllabus](Math468_Syllabus.pdf)
 
+[Lecture Notes](LectureNotes.md)
+
 **Class Times**
 - Lecture: Monday, Wednesday, Friday 12:30-1:20
 - Office Hours: Tuesday 12:30pm-1:20 (on zoom, occasionally canceled)
