@@ -12,3 +12,4 @@ title: Lecture Notes
   - [Python Lecture2_1](https://sfu.syzygy.ca/jupyter/user/ailenem/files/Math468/Lecture2_1.ipynb?_xsrf=2%7C6cd6acd5%7Cb174fb2d9fb5bf7bacf9d158eaa3ff6a%7C1700239868)
   - [Python Lecture 2_2](https://sfu.syzygy.ca/jupyter/user/ailenem/files/Math468/Lecture2_2.ipynb?_xsrf=2%7C6cd6acd5%7Cb174fb2d9fb5bf7bacf9d158eaa3ff6a%7C1700239868)
   - [Python Lecture 2_3](https://sfu.syzygy.ca/jupyter/user/ailenem/files/Math468/Lecture2_3.ipynb?_xsrf=2%7C6cd6acd5%7Cb174fb2d9fb5bf7bacf9d158eaa3ff6a%7C1700239868)
+  - [Python Lecture 2_4](https://sfu.syzygy.ca/jupyter/user/ailenem/files/Math468/Lecture2_4.ipynb?_xsrf=2%7C6cd6acd5%7Cb174fb2d9fb5bf7bacf9d158eaa3ff6a%7C1700239868)
