@@ -15,20 +15,11 @@ The natural world is inherently random. Describing, understanding, and predictin
 
 **Class Times**
 - Lecture: Monday, Wednesday, Friday 12:30-1:20
-- Office Hours: Tuesday 12:30pm-1:20 (on zoom, occasionally canceled)
-- Office Hours: Thursday 12:30pm-1:20 (in person)
+- Office Hours: Friday 1:30-3:00pm
 
 *Holidays*
 - Feb 19-25: Reading week
 - March 29 & April 1: Easter
-
-## Grade Overview
-*See syllabus for details*
-
-- Homework 30%: 6 x 5% each
-- Midterm 20%
-- Presentation 10%
-- Final Project 40%
 
 **Final Project**
 
