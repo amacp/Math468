@@ -21,9 +21,11 @@ The natural world is inherently random. Describing, understanding, and predictin
 - Feb 19-25: Reading week
 - March 29 & April 1: Easter
 
-**Final Project**
+**Litterature Review**
 
-CHECK BACK SOON
+For the litterature review we will be discussing chapters from Lande et al. 2003: "Stochastic Population Dynamics in Ecology and Conservation".  Each student/pair of students will pick a chapter to review & present.  Students are encourage to collaborate to understand and develop connections between chapters. Each student will:
+- Submit a 2pg review of their focal chapter. Litterature review should include connection to 1 (3 for 795) additional relevent reference.
+- Present a 12min(+3min Q&A) presentation introducing and summarizing the material from their selected chapter, the additional references chosen, and any connections to other chapters.
 
 ## Homework 
 
