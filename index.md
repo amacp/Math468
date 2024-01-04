@@ -28,4 +28,5 @@ For the litterature review we will be discussing chapters from Lande et al. 2003
 - Present a 12min(+3min Q&A) presentation introducing and summarizing the material from their selected chapter, the additional references chosen, and any connections to other chapters.
 
 ## Homework 
-
+- [Assignment 1](Assignment1.pdf): Due Jan 20th at 11:59pm
+- [Assignment 2](Assignment2.pdf): Due Feb 3rd at 11:59pm
