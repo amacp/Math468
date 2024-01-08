@@ -18,7 +18,8 @@ title: Lecture Notes
 ### [Topic 3: Poisson Processes](Topic3.pdf)
   - [Python Lecture 3_2](https://sfu.syzygy.ca/jupyter/user/ailenem/files/Math468/Lecture3_2.ipynb?_xsrf=2%7Cb05ae435%7C407660d55e3acab53a7583baf8918fad%7C1702843976)
 
-### Topic 4: The Coalescent Process
+### [Topic 4: The Coalescent Process](Topic4.pdf)
+  - [Python Lecture 4_5](https://sfu.syzygy.ca/jupyter/hub/user-redirect/lab/tree/Math468/Lecture4_5.ipynb)
 
 ### Topic 5: Continuous-Time Discrete-Space Stochastic Processes
 
