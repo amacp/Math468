@@ -7,7 +7,7 @@ title: Lecture Notes
 ### Introduction
   - [Python Lecture0](Lecture0.ipynb)
 
-### [Topic 1: Probability](Topic1.pdf)
+### [Topic 1: Probability](Topic1.pdf) (Updated Jan 12)
   - [Python Lecture1_5](Lecture1_5.ipynb)
 
 ### [Topic 2: Discrete-time Discrete-state processes](Topic2.pdf)
