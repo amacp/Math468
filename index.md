@@ -29,5 +29,6 @@ For the litterature review we will be discussing chapters from Lande et al. 2003
 
 ## Homework 
 - [Assignment 1](Assignment1.pdf) (Updated Jan 15): Due Jan 20th at 11:59pm 
+- Extra Credit Assignment (<1pg summary of Rich Lenski's talk): Due Jan 20th at 11:59pm
 - [Assignment 2](Assignment2.pdf): Due Feb 3rd at 11:59pm
 - [Assignment 3](Assignment3.pdf): Due Feb 17rd at 11:59pm
