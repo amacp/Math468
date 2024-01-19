@@ -28,6 +28,15 @@ For the litterature review we will be discussing chapters from Lande et al. 2003
 - Present a 12min(+3min Q&A) presentation introducing and summarizing the material from their selected chapter, the additional references chosen, and any connections to other chapters.
 
 ## Homework 
+
+### Instructions
+Complete the following problem set showing your work. Problems may be worked out "by hand" or in "python" or with the assistance of other analytical software (e.g., Mathematica, MatLab).  You may use chatGPT to assist in coding.
+
+Solutions must be type written (e.g., in Jupyter, markdown, or latex). Upload PDF solution by question to crowdmark (link will be emailed to you) by **11:59pm** on the **Saturday** of the corresponding week (see syllabus).  If you have issues with Crowdmark submission please email solutions to Rebekah Hall (rah11@sfu.ca).
+
+All problems are equally weighted within an assignment. Students in 468 may or may not choose to attempt the challenge question for a bonus pts.  Students in 795 are required to complete the challenge question.
+
+### Assignments and Due Dates:
 - [Assignment 1](Assignment1.pdf) (Updated Jan 15): Due Jan 20th at 11:59pm 
 - Extra Credit Assignment (<1pg summary of Rich Lenski's talk): Due Jan 20th at 11:59pm
 - [Assignment 2](Assignment2.pdf): Due Feb 3rd at 11:59pm
