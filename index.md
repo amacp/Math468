@@ -40,4 +40,6 @@ All problems are equally weighted within an assignment. Students in 468 may or m
 - [Assignment 1](Assignment1.pdf) (Updated Jan 15): Due Jan 20th at 11:59pm 
 - Extra Credit Assignment (<1pg summary of Rich Lenski's talk): Due Jan 20th at 11:59pm
 - [Assignment 2](Assignment2.pdf): Due Feb 3rd at 11:59pm
+- Extra Credit Assignment (<1pg summary of Mark Lewis's talk): Due Feb 3rd at 11:59pm
 - [Assignment 3](Assignment3.pdf): Due Feb 17rd at 11:59pm
+- [Assignment 4](Assignment4.pdf): Due March 9th at 11:59pm
