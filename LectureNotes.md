@@ -26,8 +26,15 @@ title: Lecture Notes
   - [Python Lecture 4_5](Lecture4_5.ipynb)
 
 ### Topic 5: Continuous-Time Discrete-Space Stochastic Processes
+A. [Notes for Topic 5.1-5.4](Topic5a.pdf) 
+
+B. [Notes for Topic 5.5-5.6](Topic5b.pdf) 
+
  - [Python Lecture 5_1](Lecture5_1.ipynb)
  - [Python Lecture 5_2](Lecture5_2.ipynb)
+ - [Python Lecture 5_3](Lecture5_3.ipynb)
+ - [Python Lecture 5_5](Lecture5_5.ipynb)
+ - [Python Lecture 5_6](Lecture5_6.ipynb)
 
 ### Topic 6: Indvidual and Agent-Based Simulation
 
