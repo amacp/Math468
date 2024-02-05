@@ -20,7 +20,7 @@ title: Lecture Notes
   - [Python Lecture 2_5](Lecture2_5.ipynb)
 
 ### [Topic 3: Poisson Processes](Topic3.pdf)
-  - [Python Lecture 3_1](Lecture3_2.ipynb)
+  - [Python Lecture 3_2](Lecture3_2.ipynb)
 
 ### [Topic 4: The Coalescent Process](Topic4.pdf)
   - [Python Lecture 4_5](Lecture4_5.ipynb)
