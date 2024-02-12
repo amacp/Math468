@@ -40,5 +40,6 @@ C. [Notes for Topic 5.7-5.8](Topic5c.pdf)
  - [Python Lecture 5_8](Lecture5_8.ipynb)
 
 ### Topic 6: Indvidual and Agent-Based Simulation
+  - [Python Lecture 6_2](Lecture6_2.ipynb)
 
 ### Topic 7: Inference
