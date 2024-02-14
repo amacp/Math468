@@ -23,6 +23,7 @@ title: Lecture Notes
   - [Python Lecture 3_2](Lecture3_2.ipynb)
 
 ### [Topic 4: The Coalescent Process](Topic4.pdf) (Updated Feb 12)
+  - [The Coalescent as a Modified Poisson Process](TheCoalescentReview.pdf)
   - [Python Lecture 4_5](Lecture4_5.ipynb)
 
 ### Topic 5: Continuous-Time Discrete-Space Stochastic Processes
