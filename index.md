@@ -45,6 +45,7 @@ All problems are equally weighted within an assignment. Students in 468 may or m
 - Extra Credit Assignment (<1pg summary of Mark Lewis's talk): Due Feb 3rd at 11:59pm
 - [Assignment 3](Assignment3.pdf): Due Feb 18rd at 11:59pm
 - **Skip problem 3**
+- Extra Credit Assignment (<1pg summary of [Marc Lipstich's](https://www.sfu.ca/gradstudies/life-community/news-events/events/pdc/2023-one-health/marc-lipsitch.html) talk): Due March 10th 
 - [Assignment 4](Assignment4.pdf): Due March 10th at 11:59pm
 - Extra Credit Assignment (<1pg summary of Ben Kerr's talk): Due March 16rd at 11:59pm
 
