@@ -51,4 +51,4 @@ All problems are equally weighted within an assignment. Students in 468 may or m
 - [Assignment 5](Assignment5.pdf): Due March 24th at 11:59pm
 
 ## Final Exam
-- Thursday, April 18th at 3:30-6:30pm 
+- Thursday, April 18th **AQ5039** at 3:30-6:30pm 
