@@ -50,6 +50,7 @@ All problems are equally weighted within an assignment. Students in 468 may or m
 - [Assignment 4](Assignment4.pdf): Due March 10th at 11:59pm
 - Extra Credit Assignment (<1pg summary of Ben Kerr's talk): Due March 16rd at 11:59pm
 - [Assignment 5](Assignment5.pdf): Due March 24th at 11:59pm
+- [Assignment 6](Assignment6.pdf)
 
 ## Final Exam
 - Thursday, April 18th **AQ5039** at 3:30-6:30pm 
