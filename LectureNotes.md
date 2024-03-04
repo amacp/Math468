@@ -7,8 +7,6 @@ title: Lecture Notes
 
 [Midterm Review](MidtermReview.pdf)
 
-# Lecture Notes:
-
 ### Introduction
   - [Python Lecture0](Lecture0.ipynb)
 
