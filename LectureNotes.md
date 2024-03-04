@@ -8,6 +8,7 @@ title: Lecture Notes
 [Midterm Review](MidtermReview.pdf)
 
 # Lecture Notes:
+
 ### Introduction
   - [Python Lecture0](Lecture0.ipynb)
 
@@ -45,4 +46,4 @@ C. [Notes for Topic 5.7-5.8](Topic5c.pdf)
 ### [Topic 6: Indvidual and Agent-Based Simulation](Topic6.pdf)
   - [Python Lecture 6_2](Lecture6_2.ipynb)
 
-### Topic 7: Inference
+### [Topic 7: Inference](Topic7.pdf)
