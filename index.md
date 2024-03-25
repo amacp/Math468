@@ -51,8 +51,9 @@ All problems are equally weighted within an assignment. Students in 468 may or m
   - [Solutions](Midterm_Solutions.pdf)
   - [Take Home](TakeHome1_Solutions.pdf) 
 - [Assignment 4](Assignment4.pdf): Due March 10th at 11:59pm
+  - [Solutions](Assignment4_Solutions.pdf) 
 - Extra Credit Assignment (<1pg summary of Ben Kerr's talk): Due March 16rd at 11:59pm
-- [Assignment 5](Assignment5.pdf): Due March 24th at 11:59pm
+- [Assignment 5](Assignment5.pdf): Due March 27th at 11:59pm
 - [Assignment 6](Assignment6.pdf): Due April 7th at 11:59pm
 
 ## Final Exam
