@@ -6,6 +6,7 @@ title: Lecture Notes
 [Lecture Videos](https://www.youtube.com/playlist?list=PLYrDm8pP64rG39GkPXJhQeJszlw11kHdO)
 
 [Midterm Review](MidtermReview.pdf)
+[Final Review](FinalReview.pdf)
 
 ### Introduction
   - [Python Lecture0](Lecture0.ipynb)
