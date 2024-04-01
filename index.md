@@ -54,6 +54,7 @@ All problems are equally weighted within an assignment. Students in 468 may or m
   - [Solutions](Assignment4_Solutions.pdf) 
 - Extra Credit Assignment (<1pg summary of Ben Kerr's talk): Due March 16rd at 11:59pm
 - [Assignment 5](Assignment5.pdf): Due March 27th at 11:59pm
+  - [Solutions](Assignment5_Solutions.pdf) 
 - [Assignment 6](Assignment6.pdf): Due April 7th at 11:59pm
 
 ## Final Exam
