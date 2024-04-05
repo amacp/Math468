@@ -41,4 +41,4 @@ title: Lecture Notes
   - [Python Lecture 6_2](Lecture6_2.ipynb)
 
 ### [Topic 7: Inference](Topic7.pdf) (Updated March 27)
-  - [Python Lecture 7_2](Lecture7_2.ipynb)
+  - [Python Lecture 7_2](BayesianInferenceExample.pdf)
